@@ -55,22 +55,10 @@
       "favoriteAnimal": "Business Cat"
     },
     {
-      "name": "Les",
-      "age": 64,
-      "favoriteAnimal": "Rabbit",
-      "id": "9"
-    },
-    {
       "name": "Catalina",
-      "age": 27,
+      "age": 52,
       "favoriteAnimal": "Chipmunk",
-      "id": "10"
-    },
-    {
-      "name": "Rachel",
-      "age": 24,
-      "favoriteAnimal": "Tiger",
-      "id": "11"
+      "id": "9"
     }
   ]
 }

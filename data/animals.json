@@ -99,43 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "10"
-    },
-    {
-      "name": "Jimmy",
-      "species": "mouse",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "Daniel",
-      "species": "Kangaroo",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "goofy"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Vince",
-      "species": "Lion",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "anxious"
-      ],
-      "id": "13"
     }
   ]
 }
