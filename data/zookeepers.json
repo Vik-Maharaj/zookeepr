@@ -59,6 +59,18 @@
       "age": 52,
       "favoriteAnimal": "Chipmunk",
       "id": "9"
+    },
+    {
+      "name": "Crystal",
+      "age": 44,
+      "favoriteAnimal": "Sloth",
+      "id": "10"
+    },
+    {
+      "name": "Nestor",
+      "age": 39,
+      "favoriteAnimal": "Koala Bear",
+      "id": "11"
     }
   ]
 }

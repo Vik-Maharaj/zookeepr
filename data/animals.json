@@ -1,5 +1,5 @@
 {
-  "animalsArray": [
+  "animals": [
     {
       "id": "0",
       "name": "Spindle",
@@ -99,6 +99,60 @@
       "personalityTraits": [
         "hungry"
       ]
+    },
+    {
+      "name": "Richard",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "10"
+    },
+    {
+      "name": "Daniel",
+      "species": "Kangaroo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Vince",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Tyler",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Janice",
+      "species": "Hedgehog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Donald",
+      "species": "Iguana",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
     }
   ]
 }
